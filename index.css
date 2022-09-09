@@ -249,7 +249,7 @@ marquee {
 
 
 /* for phone */
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     /* top_navigation */
     #top_navigation {
         display: flex;
